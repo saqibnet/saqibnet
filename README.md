@@ -27,7 +27,15 @@ Currently exploring **Zero Trust, cloud networking, penetration testing, and net
 **Labs & Tools**
 `Kali Linux` `EVE-NG` `Snort` `Splunk` `Docker` `VMware`
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=saqibnet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=saqibnet&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=saqibnet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://komarev.com/ghpvc/?username=saqibnet&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🤝 Connect
 
