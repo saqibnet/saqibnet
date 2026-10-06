@@ -27,67 +27,7 @@ Currently exploring **Zero Trust, cloud networking, penetration testing, and net
 **Labs & Tools**
 `Kali Linux` `EVE-NG` `Snort` `Splunk` `Docker` `VMware`
 
----
 
-## 🚀 Featured Projects
-
-### 🛡️ Zero Trust Enterprise Network
-
-A hands-on EVE-NG lab exploring **Zero Trust architecture, segmentation, identity controls, ACLs, and lateral-movement prevention**.
-
-`Cisco ASAv` `Cisco IOS` `EVE-NG` `Kali Linux` `Windows`
-
-→ **[View Project](#)**
-
----
-
-### 🔐 Cybersecurity Risk Assessment
-
-Security assessment of a simulated cloud-hosted eCommerce environment using **OWASP risk methodology and custom Snort detection rules**.
-
-`AWS` `Snort` `Kali Linux` `Ubuntu` `Nmap`
-
-→ **[View Project](#)**
-
----
-
-### 🔎 Network Reconnaissance Lab
-
-A controlled network-security lab exploring Nmap reconnaissance, vulnerability discovery, NSE scripting, and Python-based automation.
-
-`Nmap` `Python` `Kali Linux` `Metasploitable2`
-
-→ **[View Project](#)**
-
----
-
-## 📚 Currently Learning
-
-```text
-Network Security
-      ↓
-Cloud Security
-      ↓
-Zero Trust Architecture
-      ↓
-Security Automation
-```
-
-I'm currently deepening my knowledge in **cybersecurity, cloud networking, penetration testing, and infrastructure automation**.
-
----
-
-## 📈 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saqib-butt2&show_icons=true&hide_border=true&rank_icon=github" alt="Saqib's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-butt2&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🤝 Connect
 
